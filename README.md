@@ -1,6 +1,6 @@
 # Welcome to my Github Profile!
 
-![Banner](https://i.postimg.cc/HkXqbMfn/The-intersection-of-Art-and-Science-1.png)  
+![Banner](https://i.postimg.cc/8cKB9Z94/The-intersection-of-Art-and-Science-1.png)  
 
 ## Welcome traveler! I'm David Cui :)
 
