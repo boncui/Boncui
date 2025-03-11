@@ -2,13 +2,11 @@
 
 ![Banner](https://i.postimg.cc/HkXqbMfn/The-intersection-of-Art-and-Science-1.png)  
 
-## Welcome traveler! I'm David Cui :D
+## Welcome traveler! I'm David Cui :)
 
-- 💻 **Software Engineer | AI & ML Engineer | Robotics Finatic **
-- 🌍 ** Passionate about developing scalable tech and innovating new ideas to solve real-world problems **
-  💻 <b>Software Engineer | Robotics Finatic | AI & ML Engineer</b>  
-  🌍 <b>Passionate about developing scalable tech and innovating new ideas to solve real-world problems</b>  
-  🔥 <b>Always learning, always growing!
+- 💻 Software Engineer | AI & ML Engineer | Robotics Finatic
+- 🌍 Passionate about developing scalable tech and innovating new ideas to solve real-world problems
+- 🔥 Always learning, always growing
 
 ---
 
