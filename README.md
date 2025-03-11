@@ -1,6 +1,6 @@
 # Welcome to my Github Profile!
 
-![Banner](https://www.canva.com/design/DAGhcnWOTsQ/2LRDhqz4meHHyovePuuIsQ/view)  
+![Banner](https://i.postimg.cc/mrcFdbyP/The-intersection-of-Art-and-Science.png)  
 
 <p align="center">
   <img src="https://your-image-url.com/your-photo.jpg" width="200" height="200" style="border-radius: 50%" />
