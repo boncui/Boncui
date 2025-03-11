@@ -1,10 +1,6 @@
 # Welcome to my Github Profile!
 
-![Banner](https://i.postimg.cc/mrcFdbyP/The-intersection-of-Art-and-Science.png)  
-
-<p align="center">
-  <img src="https://your-image-url.com/your-photo.jpg" width="200" height="200" style="border-radius: 50%" />
-</p>
+![Banner](https://i.postimg.cc/HkXqbMfn/The-intersection-of-Art-and-Science-1.png)  
 
 ## Welcome traveler! I'm David Cui :D
 
@@ -59,20 +55,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 GitHub Stats & Streaks
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=boncui&theme=radical&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=boncui&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boncui&layout=compact&theme=radical)
-
----
-
-## 🚀 Featured Projects
-
-WEbsite in Development
 
 ---
 
