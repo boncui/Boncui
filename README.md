@@ -4,16 +4,16 @@
 
 ## Welcome traveler! I'm David Cui :D
 
-<p align="left">
+- 💻 **Software Engineer | AI & ML Engineer | Robotics Finatic **
+- 🌍 ** Passionate about developing scalable tech and innovating new ideas to solve real-world problems **
   💻 <b>Software Engineer | Robotics Finatic | AI & ML Engineer</b>  
   🌍 <b>Passionate about developing scalable tech and innovating new ideas to solve real-world problems</b>  
-  🔥 <b>Always learning, always growing!</b>
-</p>
+  🔥 <b>Always learning, always growing!
 
 ---
 
 ## About Me
-- 🎯 **Role Model** To develop a complete mind: Study the science of art and the art of science. Learn how to see. Realize that everything connects to everything else.
+- 🎯 **Mantra:** To develop a complete mind: Study the science of art and the art of science. Learn how to see. Realize that everything connects to everything else.
 
 - 💡 **Who am I?** A tech enthusiast who loves coding, problem-solving, and building cool projects.
 - 🎯 **Current Focus:** Working on AI and Full-Stack Web Development.
