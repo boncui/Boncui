@@ -54,6 +54,23 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+## 📊 GitHub Stats & Visualizations
+
+![Profile Views](https://komarev.com/ghpvc/?username=boncui&color=blue&style=flat-square)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=boncui&theme=radical&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=boncui&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boncui&layout=compact&theme=radical)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=boncui&theme=react-dark)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=boncui&theme=onedark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=boncui&theme=radical&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=boncui&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boncui&layout=compact&theme=radical)
+
+---
 
 ## 🌐 Connect with Me
 
