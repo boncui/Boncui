@@ -1,11 +1,18 @@
 # Welcome to my Github Profile!
 
+![Banner](https://user-images.githubusercontent.com/your-image-url.png)  
+
+<p align="center">
+  <img src="https://your-image-url.com/your-photo.jpg" width="200" height="200" style="border-radius: 50%" />
+</p>
 
 ## Welcome traveler! I'm David Cui :D
 
-💻 **Software Engineer | Robotics Finatic | AI & ML Engineer** 
-🌍 **Passionate about developing scalable tech and innovating new ideas to solve real-world problems**
-🔥 **Always learning, always growing!**
+<p align="center">
+  💻 <b>Software Engineer | Robotics Finatic | AI & ML Engineer</b>  
+  🌍 <b>Passionate about developing scalable tech and innovating new ideas to solve real-world problems</b>  
+  🔥 <b>Always learning, always growing!</b>
+</p>
 
 ---
 
@@ -78,7 +85,7 @@ WEbsite in Development
 
 ## ⚡ Fun Stuff
 
-🎵 **Now Playing:** ![Spotify Playing](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_username&cover_image=true&theme=novatorem)  
+🎵 **Now Playing:** ![Spotify Playing](https://spotify-github-profile.vercel.app/api/view?uid=boncui&cover_image=true&theme=novatorem) 
 
 ---
 
