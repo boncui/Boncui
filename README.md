@@ -1,8 +1,7 @@
-# Welcome to my Github Profile!
 
-![Banner](https://i.postimg.cc/8cKB9Z94/The-intersection-of-Art-and-Science-1.png)  
+![Banner](https://i.postimg.cc/HntdghCq/2411-WOFS-466-image-1280x720.jpg)  
 
-## Welcome traveler! I'm David Cui :)
+# Welcome traveler! I'm David Cui :)
 
 - 💻 Software Engineer | AI & ML Engineer | Robotics Finatic
 - 🌍 Passionate about developing scalable tech and innovating new ideas to solve real-world problems
