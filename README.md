@@ -10,7 +10,7 @@
 ---
 
 ## About Me
-- 🎯 **Mantra:** To develop a complete mind: Study the science of art and the art of science. Learn how to see. Realize that everything connects to everything else.
+- 🎯 **Mantra:** "To develop a complete mind: Study the science of art and the art of science. Learn how to see. Realize that everything connects to everything else." ~ Leonardo da Vinci
 
 - 💡 **Who am I?** A tech enthusiast who loves coding, problem-solving, and building cool projects.
 - 🎯 **Current Focus:** Working on AI and Full-Stack Web Development.
