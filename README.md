@@ -1,6 +1,6 @@
 # Welcome to my Github Profile!
 
-![Banner](https://user-images.githubusercontent.com/your-image-url.png)  
+![Banner](https://www.canva.com/design/DAGhcnWOTsQ/2LRDhqz4meHHyovePuuIsQ/view?utm_content=DAGhcnWOTsQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc00138a38e)  
 
 <p align="center">
   <img src="https://your-image-url.com/your-photo.jpg" width="200" height="200" style="border-radius: 50%" />
