@@ -4,7 +4,7 @@
 
 ## Welcome traveler! I'm David Cui :D
 
-<p align="center">
+<p align="left">
   💻 <b>Software Engineer | Robotics Finatic | AI & ML Engineer</b>  
   🌍 <b>Passionate about developing scalable tech and innovating new ideas to solve real-world problems</b>  
   🔥 <b>Always learning, always growing!</b>
