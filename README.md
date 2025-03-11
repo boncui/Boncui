@@ -80,12 +80,7 @@ WEbsite in Development
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/boncui)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/boncui)
-
----
-
-## ⚡ Fun Stuff
-
-🎵 **Now Playing:** ![Spotify Playing](https://spotify-github-profile.vercel.app/api/view?uid=boncui&cover_image=true&theme=novatorem) 
+[![Spotify](https://img.shields.io/badge/Spotify-black?style=for-the-badge&logo=spotify)](https://open.spotify.com/user/boncui)
 
 ---
 
