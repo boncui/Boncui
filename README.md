@@ -1,6 +1,4 @@
 
-![Banner](https://i.postimg.cc/HntdghCq/2411-WOFS-466-image-1280x720.jpg)  
-
 # Welcome traveler! I'm David Cui :)
 
 - 💻 Software Engineer | AI & ML Engineer | Robotics Finatic
